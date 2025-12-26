@@ -1,0 +1,5 @@
+# Requisitos de Neuro-Probe
+# Herramienta para análisis de comportamiento de emuladores
+
+# No hay dependencias externas - todo usa stdlib de Python
+# Python 3.7+ requerido

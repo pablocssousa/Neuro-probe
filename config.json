@@ -1,0 +1,20 @@
+{
+    "_comment": "Configuración de Neuro-Probe",
+    "emulators": {
+        "qemu": {
+            "path": "qemu-system-x86_64",
+            "enabled": true,
+            "args": []
+        },
+        "virtualbox": {
+            "path": "C:\\Program Files\\Oracle\\VirtualBox\\VBoxManage.exe",
+            "enabled": true,
+            "serial_log": "vbox_serial.log"
+        }
+    },
+    "analysis": {
+        "timeout": 10,
+        "markers": "[]{}!?ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+        "compare_screenshots": false
+    }
+}

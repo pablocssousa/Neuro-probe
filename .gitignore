@@ -1,0 +1,66 @@
+# Neuro-Probe .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.log
+*.tmp
+*.bak
+*_serial.log
+qemu_serial.log
+vbox_serial.log
+
+# Generated
+*.vdi
+test_report.json
+report_*.json
+report_*.html
+
+# Internal conversation docs (NOT for public repo)
+STATUS.md
+GUI_README.md
+GUI_FEATURES.md
+PLAN_1_HORA.md
+CREACION_3MIN.md
+
+# User config (keep template)
+# config.json
+
+# Screenshots (tracked in repo)
+# !screenshots/
